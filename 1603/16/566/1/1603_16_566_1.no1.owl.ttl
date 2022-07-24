@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Abia"@eng-Latn ;
-    wdata:q7200235 "NG001" ;
+    wdata:Q7200235 "NG001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -81,7 +81,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Delta"@eng-Latn ;
-    wdata:q7200235 "NG010" ;
+    wdata:Q7200235 "NG010" ;
 .
 
 <urn:mdciii:1603:16:566:1:11>
@@ -92,7 +92,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Ebonyi"@eng-Latn ;
-    wdata:q7200235 "NG011" ;
+    wdata:Q7200235 "NG011" ;
 .
 
 <urn:mdciii:1603:16:566:1:12>
@@ -103,7 +103,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Edo"@eng-Latn ;
-    wdata:q7200235 "NG012" ;
+    wdata:Q7200235 "NG012" ;
 .
 
 <urn:mdciii:1603:16:566:1:13>
@@ -114,7 +114,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Ekiti"@eng-Latn ;
-    wdata:q7200235 "NG013" ;
+    wdata:Q7200235 "NG013" ;
 .
 
 <urn:mdciii:1603:16:566:1:14>
@@ -125,7 +125,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Enugu"@eng-Latn ;
-    wdata:q7200235 "NG014" ;
+    wdata:Q7200235 "NG014" ;
 .
 
 <urn:mdciii:1603:16:566:1:15>
@@ -136,7 +136,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Federal Capital Territory"@eng-Latn ;
-    wdata:q7200235 "NG015" ;
+    wdata:Q7200235 "NG015" ;
 .
 
 <urn:mdciii:1603:16:566:1:16>
@@ -147,7 +147,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Gombe"@eng-Latn ;
-    wdata:q7200235 "NG016" ;
+    wdata:Q7200235 "NG016" ;
 .
 
 <urn:mdciii:1603:16:566:1:17>
@@ -158,7 +158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Imo"@eng-Latn ;
-    wdata:q7200235 "NG017" ;
+    wdata:Q7200235 "NG017" ;
 .
 
 <urn:mdciii:1603:16:566:1:18>
@@ -169,7 +169,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Jigawa"@eng-Latn ;
-    wdata:q7200235 "NG018" ;
+    wdata:Q7200235 "NG018" ;
 .
 
 <urn:mdciii:1603:16:566:1:19>
@@ -180,7 +180,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:19" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Kaduna"@eng-Latn ;
-    wdata:q7200235 "NG019" ;
+    wdata:Q7200235 "NG019" ;
 .
 
 <urn:mdciii:1603:16:566:1:2>
@@ -191,7 +191,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Adamawa"@eng-Latn ;
-    wdata:q7200235 "NG002" ;
+    wdata:Q7200235 "NG002" ;
 .
 
 <urn:mdciii:1603:16:566:1:20>
@@ -202,7 +202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:20" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Kano"@eng-Latn ;
-    wdata:q7200235 "NG020" ;
+    wdata:Q7200235 "NG020" ;
 .
 
 <urn:mdciii:1603:16:566:1:21>
@@ -213,7 +213,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:21" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Katsina"@eng-Latn ;
-    wdata:q7200235 "NG021" ;
+    wdata:Q7200235 "NG021" ;
 .
 
 <urn:mdciii:1603:16:566:1:22>
@@ -224,7 +224,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:22" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Kebbi"@eng-Latn ;
-    wdata:q7200235 "NG022" ;
+    wdata:Q7200235 "NG022" ;
 .
 
 <urn:mdciii:1603:16:566:1:23>
@@ -235,7 +235,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:23" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Kogi"@eng-Latn ;
-    wdata:q7200235 "NG023" ;
+    wdata:Q7200235 "NG023" ;
 .
 
 <urn:mdciii:1603:16:566:1:24>
@@ -246,7 +246,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:24" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Kwara"@eng-Latn ;
-    wdata:q7200235 "NG024" ;
+    wdata:Q7200235 "NG024" ;
 .
 
 <urn:mdciii:1603:16:566:1:25>
@@ -257,7 +257,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:25" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Lagos"@eng-Latn ;
-    wdata:q7200235 "NG025" ;
+    wdata:Q7200235 "NG025" ;
 .
 
 <urn:mdciii:1603:16:566:1:26>
@@ -268,7 +268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:26" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Nasarawa"@eng-Latn ;
-    wdata:q7200235 "NG026" ;
+    wdata:Q7200235 "NG026" ;
 .
 
 <urn:mdciii:1603:16:566:1:27>
@@ -279,7 +279,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:27" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Niger"@eng-Latn ;
-    wdata:q7200235 "NG027" ;
+    wdata:Q7200235 "NG027" ;
 .
 
 <urn:mdciii:1603:16:566:1:28>
@@ -290,7 +290,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:28" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Ogun"@eng-Latn ;
-    wdata:q7200235 "NG028" ;
+    wdata:Q7200235 "NG028" ;
 .
 
 <urn:mdciii:1603:16:566:1:29>
@@ -301,7 +301,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:29" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Ondo"@eng-Latn ;
-    wdata:q7200235 "NG029" ;
+    wdata:Q7200235 "NG029" ;
 .
 
 <urn:mdciii:1603:16:566:1:3>
@@ -312,7 +312,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Akwa Ibom"@eng-Latn ;
-    wdata:q7200235 "NG003" ;
+    wdata:Q7200235 "NG003" ;
 .
 
 <urn:mdciii:1603:16:566:1:30>
@@ -323,7 +323,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:30" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Osun"@eng-Latn ;
-    wdata:q7200235 "NG030" ;
+    wdata:Q7200235 "NG030" ;
 .
 
 <urn:mdciii:1603:16:566:1:31>
@@ -334,7 +334,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:31" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Oyo"@eng-Latn ;
-    wdata:q7200235 "NG031" ;
+    wdata:Q7200235 "NG031" ;
 .
 
 <urn:mdciii:1603:16:566:1:32>
@@ -345,7 +345,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:32" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Plateau"@eng-Latn ;
-    wdata:q7200235 "NG032" ;
+    wdata:Q7200235 "NG032" ;
 .
 
 <urn:mdciii:1603:16:566:1:33>
@@ -356,7 +356,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:33" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Rivers"@eng-Latn ;
-    wdata:q7200235 "NG033" ;
+    wdata:Q7200235 "NG033" ;
 .
 
 <urn:mdciii:1603:16:566:1:34>
@@ -367,7 +367,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:34" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Sokoto"@eng-Latn ;
-    wdata:q7200235 "NG034" ;
+    wdata:Q7200235 "NG034" ;
 .
 
 <urn:mdciii:1603:16:566:1:35>
@@ -378,7 +378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:35" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Taraba"@eng-Latn ;
-    wdata:q7200235 "NG035" ;
+    wdata:Q7200235 "NG035" ;
 .
 
 <urn:mdciii:1603:16:566:1:36>
@@ -389,7 +389,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:36" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Yobe"@eng-Latn ;
-    wdata:q7200235 "NG036" ;
+    wdata:Q7200235 "NG036" ;
 .
 
 <urn:mdciii:1603:16:566:1:37>
@@ -400,7 +400,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:37" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Zamfara"@eng-Latn ;
-    wdata:q7200235 "NG037" ;
+    wdata:Q7200235 "NG037" ;
 .
 
 <urn:mdciii:1603:16:566:1:4>
@@ -411,7 +411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Anambra"@eng-Latn ;
-    wdata:q7200235 "NG004" ;
+    wdata:Q7200235 "NG004" ;
 .
 
 <urn:mdciii:1603:16:566:1:5>
@@ -422,7 +422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Bauchi"@eng-Latn ;
-    wdata:q7200235 "NG005" ;
+    wdata:Q7200235 "NG005" ;
 .
 
 <urn:mdciii:1603:16:566:1:6>
@@ -433,7 +433,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Bayelsa"@eng-Latn ;
-    wdata:q7200235 "NG006" ;
+    wdata:Q7200235 "NG006" ;
 .
 
 <urn:mdciii:1603:16:566:1:7>
@@ -444,7 +444,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Benue"@eng-Latn ;
-    wdata:q7200235 "NG007" ;
+    wdata:Q7200235 "NG007" ;
 .
 
 <urn:mdciii:1603:16:566:1:8>
@@ -455,7 +455,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Borno"@eng-Latn ;
-    wdata:q7200235 "NG008" ;
+    wdata:Q7200235 "NG008" ;
 .
 
 <urn:mdciii:1603:16:566:1:9>
@@ -466,6 +466,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:566:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:566:0> ;
     skos:prefLabel "Cross River"@eng-Latn ;
-    wdata:q7200235 "NG009" ;
+    wdata:Q7200235 "NG009" ;
 .
 
